@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.help,3.4.1.v20090805_35x,"org.eclipse.help",1276536051031
+started,bundle,org.eclipse.jface,3.5.1.M20090826-0800,"org.eclipse.jface",1276536051031
+started,bundle,org.eclipse.ltk.core.refactoring,3.5.0.v20090513-2000,"org.eclipse.ltk.core.refactoring",1276536051031
+started,bundle,org.eclipse.search,3.5.1.r351_v20090708-0800,"org.eclipse.search",1276536051078
+started,bundle,org.eclipse.team.core,3.5.0.I20090527-0620,"org.eclipse.team.core",1276536051078
+started,bundle,org.eclipse.team.cvs.core,3.3.200.I20090430-0408,"org.eclipse.team.cvs.core",1276536051078
+started,bundle,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui",1276536051109
+started,bundle,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.editors",1276536051109
+started,bundle,org.eclipse.ui.forms,3.4.1.v20090714_35x,"org.eclipse.ui.forms",1276536051109
+started,bundle,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.ide",1276536051125
+started,bundle,org.eclipse.ui.navigator,3.4.1.M20090911-1550,"org.eclipse.ui.navigator",1276536051125
+started,bundle,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.resources",1276536051125
+started,bundle,org.eclipse.ui.net,1.2.1.r35x_20090812-1200,"org.eclipse.ui.net",1276536051125
+started,bundle,org.eclipse.ui.views,3.4.1.M20090826-0800,"org.eclipse.ui.views",1276536051140
+started,bundle,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"org.eclipse.ui.workbench",1276536051140
+started,bundle,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.workbench.texteditor",1276536051140
+started,bundle,org.eclipse.update.configurator,3.3.0.v20090312,"org.eclipse.update.configurator",1276536051140
+os,sysinfo,,,"win32",1276536051156
+arch,sysinfo,,,"x86",1276536051156
+ws,sysinfo,,,"win32",1276536051156
+locale,sysinfo,,,"ko_KR",1276536051156
+processors,sysinfo,,,"2",1276536051156
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1276536051156
+java.runtime.version,sysinfo,,,"1.6.0_19-b04",1276536051156
+java.specification.name,sysinfo,,,"Java Platform API Specification",1276536051156

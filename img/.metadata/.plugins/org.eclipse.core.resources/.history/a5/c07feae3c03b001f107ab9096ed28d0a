@@ -1,0 +1,37 @@
+#include            <stdio.h>
+#include            "fileio.h"
+#define IMGSIZ            256
+
+main()
+{
+int         status;
+int i,j,k;
+char            fname[30];
+int nrow = 256, ncol=256;
+unsigned char            buf1[IMGSIZ][IMGSIZ];
+
+int hist[256];
+///////////////////
+//printf("Enter input file name: ");
+//scanf("%s", fname);
+memset(buf1, 0, IMGSIZ*IMGSIZ);
+status = load_data("lena.raw", buf1, 'b', IMGSIZ, IMGSIZ);
+
+/////////////////////////////////////////////////////////////
+
+
+for(k=0;k<=255;k++){
+	hist[k]=0;
+}
+
+for(i=0;i<nrow;i++){
+	for(j=0;j<ncol;j++){
+		hist[buf1[i][j]]++;
+	}
+}
+
+///////////////////////////////////////////
+for(i=0;i<255;i++){
+	printf("%d : %d\n",i,hist[i]);
+}
+}
